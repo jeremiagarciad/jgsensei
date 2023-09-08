@@ -1,6 +1,6 @@
 Hi there! ✋
 
-I’m Frontend Developer and css lover.
+I’m FullStack Software Engineer and Data Analytics.
 
 - 🔭  I’m currently working on something cool 😉. \
 - 🌱  I’m currently improving my skills.\
