@@ -1,6 +1,6 @@
 Hi there! ✋
 
-I’m FullStack Software Engineer and Data Analytics.
+I’m a FullStack Software Engineer and Flutter Lover.
 
 - 🔭  I’m currently working on something cool 😉. \
 - 🌱  I’m currently improving my skills.\
